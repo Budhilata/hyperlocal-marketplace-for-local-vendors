@@ -1,2 +1,11 @@
-# hyperlocal-marketplace-for-local-vendors
-Local Bazar is a digital marketplace connecting local vendors with customers in their city. Like Blinkit for neighborhood shops, it enables customers to discover, order, and receive products from nearby vendors quickly and conveniently. The platform helps small local businesses compete with large chains by providing digital visibility.
+
+  # Local Vendor Connection App
+
+  This is a code bundle for Local Vendor Connection App. The original project is available at https://www.figma.com/design/3oZ8OannGfwkVX3RMM3oIv/Local-Vendor-Connection-App.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
